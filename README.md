@@ -57,7 +57,7 @@ That's actually all it is.  And that's the "convergence" - If there is a skill t
 
 # Industrial-Scale Cognition
 
-Once we see that it's an input-output machine - ask Jensen Huang puts it a "cognitive factory" or an "AI factory" - then we should be asking how we can get the most out of it.
+Once we see that it's an input-output machine - as Jensen Huang puts it, a "cognitive factory" or an "AI factory" - then we should be asking how we can get the most out of it.
 
 However, the kinds of outputs that AI makes - documents, images, etc - are different.  Every iPhone is exactly like every other iPhone - it's supposed to be!  But every document is supposed to be unique, to say something that the other documents didn't already say, because documents are information, and information can be copied.
 
